@@ -1,0 +1,67 @@
+body {
+  background-color: #25282a;
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+#loginUname {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+#loginPass {
+  width: 25%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+
+.loginForm {
+  text-align: center;
+}
+
+.signup {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  cursor: pointer;
+  margin: auto;
+}
+
+#Btns{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.login {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  cursor: pointer;
+  margin: auto;
+}
+ .link {
+   text-align: center;
+ }
+
+ .logo {
+   text-align: center;
+
+ }

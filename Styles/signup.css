@@ -1,0 +1,41 @@
+body {
+  background-color: #25282a;
+}
+
+.regis {
+  width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 18px;
+}
+
+#squestion{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  font-weight: bold;
+}
+
+#regBtn{
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 26px;
+  cursor: pointer;
+  margin: auto;
+}
+
+#regBtn:hover {
+  background-color: #f44336;
+  color: white;
+}
+
+.raw {
+  width: 100%;
+
+}
